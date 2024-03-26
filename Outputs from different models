@@ -1,0 +1,14 @@
+Models Outputs
+
+1.Linear regression:
+    Mean:  5.030437102767306
+    Standered devaition:  1.0607661158294837
+
+2.Decision Tree
+    Mean:  4.467120279357464
+    Standered devaition:  0.9880211536182808
+    
+3.RandomForestRegression:
+    Mean:  3.2827953483985453
+    Standered devaition:  0.6831756364420437
+    

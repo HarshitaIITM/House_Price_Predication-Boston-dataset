@@ -1,0 +1,44 @@
+## Dragon Real Estate project ##
+1. Problem teardown:
+a)we are given a dataset of house prices with some features like the number of bathrooms, number of bedrooms, etc.
+b) Our task is to create a model that will predict the price of any new house by looking at the features.
+
+2.Geeting started(Important question to ask):
+a)What is the business object and end goal? How will Dragon Real Estate benefit from the model?
+ans: The Dragon Real Estate wants to use this model to predict house prices in a given area and will invest in the area if it is undervalued.
+b)How does the current solution look like?
+ans: Manual experts who analyze the features(The prediction has an error rate of 25% which is why Dragon Real estates Pvt Ltd. wants to use the ML model).
+
+3. Finding the type of model to build:
+a)Supervised
+b)Regression task
+c)Batch learning
+
+4. Selecting a performance measure:
+a)Root mean square error(RMSE)-prefered for regression task
+b)Other performance measures: Mean absolute error, Manhattan norm, etc
+
+5. Checking the assumptions:
+a)Make sure that the team needs the price and not the categories like expensive, cheap, etc.
+
+6.Info about data:
+I am taking data very short.
+stratified sampling to divide data equally according to one character(from the data or one column from data)
+
+7.Techonology used:
+a)Sikit learn
+b)Numpy
+c)Pandas
+d)joblib
+
+
+
+
+
+
+
+
+
+
+
+
